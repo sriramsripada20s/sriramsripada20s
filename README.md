@@ -20,14 +20,6 @@
   </a>
 </div>
 
-<div align="center"> 
-  <p>Have a look at my Data Portfolio</p>
-  <a href="https://sriramsripada20s.github.io/portfolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-
 <h3>Languages</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
