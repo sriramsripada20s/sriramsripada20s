@@ -2,14 +2,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Sriram+Sripada!;" />
 </h1>
 
+<h3 align="center">🚀 Data Analyst | Data Scientist | LLM Explorer | Cloud Enthusiast </h3>
+
 <p align="center">
-  <img src="https://github.com/sriramsripada20s/sriramsripada20s/assets/49833524/6cbe308c-01a9-4b41-b75f-ca963a33baec" alt="Image" />
+  <img src="https://komarev.com/ghpvc/?username=sriramsripada20s&label=Profile%20views&color=0e75b6&style=flat" alt="sriramsripada" />
+  <img src="https://img.shields.io/github/followers/SriramSripada?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<h3 align="center">Data Scientist | Data Engineer | Data Analyst</h3>
-
  </div>
- 
+
+ ## 🌟 About Me
+
+- 👩‍💻 Building scalable data solutions with **Snowflake, Python, SIGMA, GEN AI**, and **REST APIs**
+- 🎓 **M.S. in Business Analytics and Information Systems** from **University of South Florida** (2024)
+- 🛠️ **4+ years** of professional experience in **Software Engineering, Machine Learning, Data Science, Cloud, and Analytics**
+- 💬 Passionate about **AI, Machine Learning, Natural Language Processing, Generative AI, Statistics**
+- 📖 Reading: *LLM Engineer's Handbook: Master the Art of Engineering Large Language Models from Concept to Production* by Maxime Labonne and Paul Iusztin
+- 🌐 **Portfolio**: [Sriram Sripada's Projects](https://sriramsripada20s.github.io/portfolio.github.io/portfolio/)
+- 🤝 Open to collaborations in **AI/ML/Data Analytics/Gen AI**
+
+
 <div align="center"> 
   <p>Feel free to connect with me on:</p>
   <a href="mailto:sripadas20@gmail.com">
@@ -20,92 +32,95 @@
   </a>
 </div>
 
-<h3>Languages</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer" title="R">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+## 🛠️ Technical Skills
 
-<h3>Database</h3>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="Microsoft SQL Server">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer" title="Oracle">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="SQLite">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</a>
+### 💻 **Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
+</p>
 
-<h3>Cloud</h3>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services (AWS)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" title="Microsoft Azure">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-</a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer" title="Heroku">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-</a>
+### 🤖 **AI & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=natural-language&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/>
+  <img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge&logo=chatbot&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
 
-<h3>Data Science</h3>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-</a>
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer" title="PySpark">
-  <!-- PySpark logo or icon -->
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer" title="NLTK">
-  <!-- NLTK logo or icon -->
-</a>
+### 📊 **Data Science & ML Techniques**
+<p align="left">
+  <img src="https://img.shields.io/badge/Regression-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Regression"/>
+  <img src="https://img.shields.io/badge/Classification-34A853?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Classification"/>
+  <img src="https://img.shields.io/badge/Decision_Trees-EA4335?style=for-the-badge&logo=tree&logoColor=white" alt="Decision Trees"/>
+  <img src="https://img.shields.io/badge/Random_Forests-FBBC04?style=for-the-badge&logo=tree&logoColor=white" alt="Random Forests"/>
+  <img src="https://img.shields.io/badge/Ensembles-9C27B0?style=for-the-badge&logo=ensemble&logoColor=white" alt="Ensembles"/>
+  <img src="https://img.shields.io/badge/Distributed_Computing-FF6F00?style=for-the-badge&logo=apache&logoColor=white" alt="Distributed Computing"/>
+</p>
 
-<h3>Visualization Tools</h3>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer" title="Tableau">
-  <img src="https://github.com/sriramsripada20s/sriramsripada20s/assets/49833524/b1bb0fe9-be82-4998-bd71-e01d8b70b99d" alt="Tableau" width="80" height="40"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" title="Power BI">
-  <img src="https://github.com/sriramsripada20s/sriramsripada20s/assets/49833524/53b3f897-6e09-4ee8-bd3e-7f4ef7c4e781" alt="Power BI" width="80" height="40"/>
-</a>
-<a href="https://looker.com/" target="_blank" rel="noreferrer" title="Looker Studio">
-  <img src="https://github.com/sriramsripada20s/sriramsripada20s/assets/49833524/155bb361-3476-4007-9af3-2deaf4baee3f" alt="Dialogflow" width="50" height="40"/>
-</a>
+### 📈 **Statistics & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Statistical Analysis"/>
+  <img src="https://img.shields.io/badge/Hypothesis_Testing-009688?style=for-the-badge&logo=testing-library&logoColor=white" alt="Hypothesis Testing"/>
+  <img src="https://img.shields.io/badge/A/B_Testing-FF5722?style=for-the-badge&logo=ab-testing&logoColor=white" alt="A/B Testing"/>
+  <img src="https://img.shields.io/badge/Descriptive_Stats-607D8B?style=for-the-badge&logo=statistics&logoColor=white" alt="Descriptive Stats"/>
+  <img src="https://img.shields.io/badge/Inferential_Stats-455A64?style=for-the-badge&logo=statistics&logoColor=white" alt="Inferential Stats"/>
+</p>
 
-<h3>Tools</h3>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="GNU Bash">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer" title="D3.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+### 💾 **Data Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/ETL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL"/>
+  <img src="https://img.shields.io/badge/Data_Cleansing-00BCD4?style=for-the-badge&logo=data&logoColor=white" alt="Data Cleansing"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### 📊 **Visualization & BI Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Business_Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Sigma-0081C9?style=for-the-badge&logo=sigma&logoColor=white" alt="Sigma"/>
+  <img src="https://img.shields.io/badge/CRM-5865F2?style=for-the-badge&logo=salesforce&logoColor=white" alt="CRM"/>
+</p>
+
+## 🏆 Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/5b0066ec-ebd4-46d4-923a-80aaf6d63c9b/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Engineer"/>
+  </a>
+  <a href="https://www.credly.com/badges/c7d502b6-3c53-4ac0-9191-27a2d110cddc/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics"/>
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/93DV4A3D3MC5" target="_blank">
+    <img src="https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="ML Specialization"/>
+  </a>
+  <a href="https://credentials.getdbt.com/47622219-a64a-4e1c-9e73-7571c998b24f#acc.gPUl7uk9" target="_blank">
+    <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Fundamentals"/>
+  </a>
+</p>
+
+- 🏅 **[AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/badges/5b0066ec-ebd4-46d4-923a-80aaf6d63c9b/public_ur)**  
+- 🏅 **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/c7d502b6-3c53-4ac0-9191-27a2d110cddc/public_url)**  
+- 🏅 **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/93DV4A3D3MC5)** | *Stanford Online*  
+- 🏅 **[dbt Fundamentals](https://credentials.getdbt.com/47622219-a64a-4e1c-9e73-7571c998b24f#acc.gPUl7uk9)**
+
+---
+
+## 🎓 Education
+
+- 🎓 **Master of Science in Business Analytics and Information Systems** | *University of South Florida* | 2024  
+- 🎓 **Postgraduate Diploma in AI & ML (Data Science)** | *University of Hyderabad*  | 2022
+- 🎓 **Bachelor of Engineering in Electronics and Communication Engineering** | *Osmania University* | 2020
