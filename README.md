@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Sriram+Sripada!;" />
 </h1>
 
-<h3 align="center">🚀 Data Analyst | Data Scientist | LLM Explorer | Cloud Enthusiast </h3>
+<h3 align="center">🚀 Data Analyst | Data Engineer | Data Scientist | LLM Explorer | Cloud Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sriramsripada20s&label=Profile%20views&color=0e75b6&style=flat" alt="sriramsripada" />
