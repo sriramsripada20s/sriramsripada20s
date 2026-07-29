@@ -110,12 +110,16 @@
   <a href="https://credentials.getdbt.com/47622219-a64a-4e1c-9e73-7571c998b24f#acc.gPUl7uk9" target="_blank">
     <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Fundamentals"/>
   </a>
+  <a href="https://achieve.snowflake.com/4d6599af-8108-46a4-98f9-92653c6a7107#acc.cPENyOzo" target="_blank">
+    <img src="https://img.shields.io/badge/SnowPro-Core_Certification-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="SnowPro Core"/>
+  </a>
 </p>
 
-- 🏅 **[AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/badges/5b0066ec-ebd4-46d4-923a-80aaf6d63c9b/public_ur)**  
-- 🏅 **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/c7d502b6-3c53-4ac0-9191-27a2d110cddc/public_url)**  
-- 🏅 **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/93DV4A3D3MC5)** | *Stanford Online*  
+- 🏅 **[AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/badges/5b0066ec-ebd4-46d4-923a-80aaf6d63c9b/public_url)**
+- 🏅 **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/c7d502b6-3c53-4ac0-9191-27a2d110cddc/public_url)**
+- 🏅 **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/93DV4A3D3MC5)** | *Stanford Online*
 - 🏅 **[dbt Fundamentals](https://credentials.getdbt.com/47622219-a64a-4e1c-9e73-7571c998b24f#acc.gPUl7uk9)**
+- 🏅 **[SnowPro Core Certification](https://achieve.snowflake.com/4d6599af-8108-46a4-98f9-92653c6a7107#acc.cPENyOzo)**
 
 ---
 
