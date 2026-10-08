@@ -1,130 +1,101 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Sriram+Sripada!;" />
-</h1>
-
-<h3 align="center">🚀 Data Analyst | Data Engineer | Data Scientist | LLM Explorer | Cloud Enthusiast </h3>
-
+<h1 align="center">Hi There! 👋</h1>
+<h2 align="center">I'm Sriram Sripada</h2>
+<h3 align="center">Passionate about building AI & Data Engineering Solutions</h3>
+ 
+<h3 align="center">📊 Analytics Engineer · 🛠️ Data Engineer · 🤖 Applied GenAI / Agentic AI· ❄️ Snowflake + dbt + Airflow</h3>
+ 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriramsripada20s&label=Profile%20views&color=0e75b6&style=flat" alt="sriramsripada" />
-  <img src="https://img.shields.io/github/followers/SriramSripada?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=sriramsripada20s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sriramsripada20s?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
- </div>
+## 🌟 About Me
 
- ## 🌟 About Me
+- 📊 **Data & Analytics Engineer** with ~**4 years** across the full data stack — Data Analytics & Engineering, Data science and AI/ML
+- ❄️ Core stack: **Snowflake · dbt · Python · AWS · Airflow · AI/ML**, with **Sigma**, **Tableau** and **Power BI** for BI
+- 🤖 Building Agentic systems with **LangChain + LangGraph + AWS**, **Snowflake Cortex** and **MCP**
+- 💼 Open to **Data Analyst, Analytics Engineer, Data Engineer, Data Scientist, and **Business Intelligence** roles
 
-- 👩‍💻 Building scalable data solutions with **Snowflake, Python, SIGMA, GEN AI**, and **REST APIs**
-- 🎓 **M.S. in Business Analytics and Information Systems** from **University of South Florida** (2024)
-- 🛠️ **4+ years** of professional experience in **Software Engineering, Machine Learning, Data Science, Cloud, and Analytics**
-- 💬 Passionate about **AI, Machine Learning, Natural Language Processing, Generative AI, Statistics**
-- 📖 Reading: *LLM Engineer's Handbook: Master the Art of Engineering Large Language Models from Concept to Production* by Maxime Labonne and Paul Iusztin
-- 🌐 **Portfolio**: [Sriram Sripada's Projects](https://sriramsripada20s.github.io/portfolio.github.io/portfolio/)
-- 🤝 Open to collaborations in **AI/ML/Data Analytics/Gen AI**
+## 🛠️ Tech Stack
 
-
-<div align="center"> 
-  <p>Feel free to connect with me on:</p>
-  <a href="mailto:sripadas20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sriram-sripada-2098/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-## 🛠️ Technical Skills
-
-### 💻 **Programming Languages**
+### ❄️ Data Platform & Analytics Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
-</p>
-
-### 🤖 **AI & Machine Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=natural-language&logoColor=white" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/>
-  <img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge&logo=chatbot&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### 📊 **Data Science & ML Techniques**
-<p align="left">
-  <img src="https://img.shields.io/badge/Regression-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Regression"/>
-  <img src="https://img.shields.io/badge/Classification-34A853?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Classification"/>
-  <img src="https://img.shields.io/badge/Decision_Trees-EA4335?style=for-the-badge&logo=tree&logoColor=white" alt="Decision Trees"/>
-  <img src="https://img.shields.io/badge/Random_Forests-FBBC04?style=for-the-badge&logo=tree&logoColor=white" alt="Random Forests"/>
-  <img src="https://img.shields.io/badge/Ensembles-9C27B0?style=for-the-badge&logo=ensemble&logoColor=white" alt="Ensembles"/>
-  <img src="https://img.shields.io/badge/Distributed_Computing-FF6F00?style=for-the-badge&logo=apache&logoColor=white" alt="Distributed Computing"/>
-</p>
-
-### 📈 **Statistics & Analytics**
-<p align="left">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Statistical Analysis"/>
-  <img src="https://img.shields.io/badge/Hypothesis_Testing-009688?style=for-the-badge&logo=testing-library&logoColor=white" alt="Hypothesis Testing"/>
-  <img src="https://img.shields.io/badge/A/B_Testing-FF5722?style=for-the-badge&logo=ab-testing&logoColor=white" alt="A/B Testing"/>
-  <img src="https://img.shields.io/badge/Descriptive_Stats-607D8B?style=for-the-badge&logo=statistics&logoColor=white" alt="Descriptive Stats"/>
-  <img src="https://img.shields.io/badge/Inferential_Stats-455A64?style=for-the-badge&logo=statistics&logoColor=white" alt="Inferential Stats"/>
-</p>
-
-### 💾 **Data Engineering**
-<p align="left">
-  <img src="https://img.shields.io/badge/ETL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL"/>
-  <img src="https://img.shields.io/badge/Data_Cleansing-00BCD4?style=for-the-badge&logo=data&logoColor=white" alt="Data Cleansing"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### ☁️ **Cloud & DevOps**
+### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 📊 **Visualization & BI Tools**
+### 🤖 AI / ML & GenAI
 <p align="left">
-  <img src="https://img.shields.io/badge/Business_Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Snowflake_Cortex-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Cortex"/>
+  <img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" alt="NLP"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="SageMaker"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+### 📈 BI & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Sigma-0081C9?style=for-the-badge" alt="Sigma"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Sigma-0081C9?style=for-the-badge&logo=sigma&logoColor=white" alt="Sigma"/>
-  <img src="https://img.shields.io/badge/CRM-5865F2?style=for-the-badge&logo=salesforce&logoColor=white" alt="CRM"/>
+  <img src="https://img.shields.io/badge/A%2FB_Testing-FF5722?style=for-the-badge" alt="A/B Testing"/>
+  <img src="https://img.shields.io/badge/Statistics-276DC3?style=for-the-badge" alt="Statistics"/>
 </p>
 
 ## 🏆 Certifications
-<p align="left">
-  <a href="https://www.credly.com/badges/5b0066ec-ebd4-46d4-923a-80aaf6d63c9b/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Engineer"/>
-  </a>
-  <a href="https://www.credly.com/badges/c7d502b6-3c53-4ac0-9191-27a2d110cddc/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics"/>
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/93DV4A3D3MC5" target="_blank">
-    <img src="https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="ML Specialization"/>
-  </a>
-  <a href="https://credentials.getdbt.com/47622219-a64a-4e1c-9e73-7571c998b24f#acc.gPUl7uk9" target="_blank">
-    <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Fundamentals"/>
-  </a>
-  <a href="https://achieve.snowflake.com/4d6599af-8108-46a4-98f9-92653c6a7107#acc.cPENyOzo" target="_blank">
-    <img src="https://img.shields.io/badge/SnowPro-Core_Certification-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="SnowPro Core"/>
-  </a>
-</p>
 
-- 🏅 **[AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/badges/5b0066ec-ebd4-46d4-923a-80aaf6d63c9b/public_url)**
-- 🏅 **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/c7d502b6-3c53-4ac0-9191-27a2d110cddc/public_url)**
-- 🏅 **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/93DV4A3D3MC5)** | *Stanford Online*
-- 🏅 **[dbt Fundamentals](https://credentials.getdbt.com/47622219-a64a-4e1c-9e73-7571c998b24f#acc.gPUl7uk9)**
-- 🏅 **[SnowPro Core Certification](https://achieve.snowflake.com/4d6599af-8108-46a4-98f9-92653c6a7107#acc.cPENyOzo)**
-
----
+- 🏅 **[SnowPro Core Certification](https://achieve.snowflake.com/4d6599af-8108-46a4-98f9-92653c6a7107#acc.cPENyOzo)** — Snowflake
+- 🏅 **[AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/5b0066ec-ebd4-46d4-923a-80aaf6d63c9b/public_url)** - AWS
+- 🏅 **[Astronomer Certified for AI Orchestration Fundamentals](https://www.credly.com/badges/a75a26bd-2772-4f3b-b9e6-611e75a1422f/public_url)** - Airflow
+- 🏅 **[dbt Fundamentals](https://credentials.getdbt.com/47622219-a64a-4e1c-9e73-7571c998b24f#acc.gPUl7uk9)** — dbt Labs
+- 🏅 **[Generative AI Fundamentals](https://credentials.databricks.com/8cdecec2-f786-43c3-809f-c0a08c0b3dc3#acc.viM06FRk)** — Databricks
+- 🏅 **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/c7d502b6-3c53-4ac0-9191-27a2d110cddc/public_url)** - Google Analytics
+- 🏅 **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/93DV4A3D3MC5)** — Stanford Online
 
 ## 🎓 Education
 
-- 🎓 **Master of Science in Business Analytics and Information Systems** | *University of South Florida* | 2024  
-- 🎓 **Postgraduate Diploma in AI & ML (Data Science)** | *University of Hyderabad*  | 2022
-- 🎓 **Bachelor of Engineering in Electronics and Communication Engineering** | *Osmania University* | 2020
+- 🎓 **M.S., Business Analytics & Information Systems** — *University of South Florida* · 2024
+- 🎓 **Postgraduate Diploma in AI & ML (Data Science)** — *University of Hyderabad* · 2022
+- 🎓 **B.E., Electronics & Communication Engineering** — *Osmania University* · 2020
+
+## ✍️ Writing & Research
+
+- 📝 Writing on **Snowflake, dbt, AWS and GenAI** on Substack <!-- add Substack link -->
+- 🎤 Presented NLP research at the **Data Science for Social Good Conference**
+- 📄 Co-authored a case study published in the **Muma Case Review**
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sriram-sripada-2098/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sriramsripada20s.github.io/portfolio.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:sripadas20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
