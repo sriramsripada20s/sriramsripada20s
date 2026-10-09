@@ -2,7 +2,7 @@
 <h2 align="center">I'm Sriram Sripada</h2>
 <h3 align="center">Passionate about building AI & Data Engineering Solutions</h3>
  
-<h3 align="center">📊 Analytics Engineer · 🛠️ Data Engineer · 🤖 Applied GenAI / Agentic AI· ❄️ Snowflake + dbt + Airflow</h3>
+<h3 align="center">📊 Analytics Engineer 🛠️ Data Engineer 🤖 Applied GenAI / Agentic AI ❄️ Snowflake + dbt + Airflow</h3>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sriramsripada20s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
