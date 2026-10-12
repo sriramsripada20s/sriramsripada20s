@@ -5,7 +5,7 @@
 <h3 align="center">📊 Analytics Engineer 🛠️ Data Engineer 🤖 Applied GenAI / Agentic AI ❄️ Snowflake + dbt + Airflow</h3>
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriramsripada20s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/sriramsripada20s.svg?label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sriramsripada20s?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
